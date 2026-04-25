@@ -1,14 +1,14 @@
 $(function(){
   var adBanners = [
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/txp-leaderboard-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/basic-textpattern-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/wordpress-mythemesshop-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/mwp_banner_18_728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/grooveshark-ad-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/treehouse-learning-ad-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/ddg-duck-duck-go-ad-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/photoshop-to-html-ad-728x90.jpg",
-    "https://raw.githubusercontent.com/Rodriceorg/JavaScript-Ad-Banner-Rotator/master/images/getting-good-javascript-ad-728x90.jpg"
+    "/images/txp-leaderboard-728x90.jpg",
+    "/images/basic-textpattern-728x90.jpg",
+    "/images/wordpress-mythemesshop-728x90.jpg",
+    "/images/mwp_banner_18_728x90.jpg",
+    "/images/grooveshark-ad-728x90.jpg",
+    "/images/treehouse-learning-ad-728x90.jpg",
+    "/images/ddg-duck-duck-go-ad-728x90.jpg",
+    "/images/photoshop-to-html-ad-728x90.jpg",
+    "/images/getting-good-javascript-ad-728x90.jpg"
   ];
   var bannerLinks = [
     "http://textpattern.com/",
