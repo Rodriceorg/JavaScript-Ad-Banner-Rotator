@@ -1,14 +1,14 @@
 $(function(){
   var adBanners = [
-    "images/txp-leaderboard-728x90.jpg",
-    "images/basic-textpattern-728x90.jpg",
-    "images/wordpress-mythemesshop-728x90.jpg",
-    "images/mwp_banner_18_728x90.jpg",
-    "images/grooveshark-ad-728x90.jpg",
-    "images/treehouse-learning-ad-728x90.jpg",
-    "images/ddg-duck-duck-go-ad-728x90.jpg",
-    "images/photoshop-to-html-ad-728x90.jpg",
-    "images/getting-good-javascript-ad-728x90.jpg"
+    "txp-leaderboard-728x90.jpg",
+    "basic-textpattern-728x90.jpg",
+    "wordpress-mythemesshop-728x90.jpg",
+    "mwp_banner_18_728x90.jpg",
+    "grooveshark-ad-728x90.jpg",
+    "treehouse-learning-ad-728x90.jpg",
+    "ddg-duck-duck-go-ad-728x90.jpg",
+    "photoshop-to-html-ad-728x90.jpg",
+    "getting-good-javascript-ad-728x90.jpg"
   ];
   var bannerLinks = [
     "http://textpattern.com/",
